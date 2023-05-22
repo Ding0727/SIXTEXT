@@ -53,6 +53,10 @@ table {
     font-family: 'Noto Sans TC', sans-serif;
     font-style: normal;
 }
+
+*{
+    outline: 1px red;
+}
 .body{
     margin-left: 0;
     margin-right: 0;
